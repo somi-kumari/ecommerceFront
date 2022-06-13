@@ -1,0 +1,16 @@
+ul li {
+    display: inline-block;
+    padding: 8px;
+}
+
+.navbar {
+    padding: 8px;
+    margin: 0px;
+    background-color: #f16565;
+}
+
+ul li a {
+    color: aliceblue;
+    text-decoration: none;
+    padding: 2px;
+}
